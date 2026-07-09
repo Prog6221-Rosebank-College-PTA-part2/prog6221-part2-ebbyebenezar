@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TaskChat/TaskChat.sqlproj" Id="63ffd146-c0ad-4f40-bbfb-66d7c93a84ef">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="TaskChatt/TaskChatt.csproj" Id="3fb1071b-4e19-4b82-8dfb-e2ce013b8665" />
+</Solution>
